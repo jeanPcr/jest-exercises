@@ -1,0 +1,11 @@
+- Create file 'Computer.js'
+- expose a Compute class
+- Have a test
+    - 100% coverage!
+    - good titles
+- create first method `sum` that 
+    - accepts any number of params
+    - returns the sum
+    - handles edge cases 
+        - invalid type
+        - invalid number of params

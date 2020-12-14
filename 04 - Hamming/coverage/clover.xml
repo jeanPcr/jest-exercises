@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1545058443837" clover="3.2.0">
+  <project timestamp="1545058443837" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2" elements="24" coveredelements="24" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1">
+      <file name="hamming.js" path="/Users/benjiox/Remote documents/Work documents/Efreitech (teacher)/TDD (1st year students)/04 - Hamming/hamming.js">
+        <metrics statements="10" coveredstatements="10" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="2" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="9" count="61" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="58" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="24" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="18" count="13" type="stmt"/>
+        <line num="22" count="119" type="cond" truecount="4" falsecount="0"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>

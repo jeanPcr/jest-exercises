@@ -1,0 +1,27 @@
+TN:
+SF:/Users/benjiox/Remote documents/Work documents/Efreitech (teacher)/TDD (1st year students)/06 - PikaChu/pikachu.js
+FN:1,(anonymous_0)
+FNF:1
+FNH:1
+FNDA:6,(anonymous_0)
+DA:1,1
+DA:2,6
+DA:3,6
+DA:5,6
+DA:6,2
+DA:7,1
+DA:10,1
+DA:12,4
+DA:13,1
+DA:16,3
+LF:10
+LH:10
+BRDA:5,0,0,2
+BRDA:5,0,1,4
+BRDA:6,1,0,1
+BRDA:6,1,1,1
+BRDA:12,2,0,1
+BRDA:12,2,1,3
+BRF:6
+BRH:6
+end_of_record
